@@ -42,6 +42,6 @@
 
 ###
 
-<p align="left">- Find me on <a href="https://www.linkedin.com/in/michele-cirolla-028904197/">LinkedIn</a> 💻<br>- Send me an <a href="cirollamiki@gmail.com">email</a> 📧</p>
+<p align="left">- Find me on <a href="https://www.linkedin.com/in/michele-cirolla-028904197/">LinkedIn</a> 💻<br>- Send me an <a href="mailto:cirollamiki@gmail.com">email</a> 📧</p>
 
 ###
